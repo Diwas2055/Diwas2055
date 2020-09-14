@@ -1,7 +1,6 @@
-### Hi there 👋
+<h1 align="center">Check Out MY Website </h1>
+<div align="center"> :rocket: <h2><a target="_blank" href="https://merowebiste.000webhostapp.com/"> Mero Site</a> </h2></div>
 
-<!--
-**Diwas2055/Diwas2055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
