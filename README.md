@@ -1,8 +1,8 @@
-### Hi there, I'm Abdul Rehman - Mani [abdulrehman25][website] 👋
+### Hi there, I'm Diwash Bhandari [Shree0105][website] 👋
 
-[![Website](https://img.shields.io/website?label=abdulrehman.pk&style=for-the-badge&url=http%3A%2F%2Fabdulrehman.pk)](http://abdulrehman.pk)
+[![Website](http://meroweb.netlify.app/)](http://meroweb.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abdulrehman__pk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabdulrehman__pk&screen_name=abdulrehman__pk)
-[![fiverr](https://img.shields.io/badge/Hire%20On%20Fiverr-5(46%20reviews)-brightgreen?color=1dbf73&logo=fiverr&style=for-the-badge)](https://track.fiverr.com/visit/?bta=94214&nci=7473&landingPage=https%3A%2F%2Ftrack.fiverr.com%2Fvisit%2F%3Fbta%3D94214%26brand%3Dfiverrhybrid%26landingPage%3Dhttps%253A%252F%252Fwww.fiverr.com%252Fabdulrehman25)
+[![Linkdin](https://img.shields.io/badge/Hire%20On%20Fiverr-5(46%20reviews)-brightgreen?color=1dbf73&logo=fiverr&style=for-the-badge)](https://track.fiverr.com/visit/?bta=94214&nci=7473&landingPage=https%3A%2F%2Ftrack.fiverr.com%2Fvisit%2F%3Fbta%3D94214%26brand%3Dfiverrhybrid%26landingPage%3Dhttps%253A%252F%252Fwww.fiverr.com%252Fabdulrehman25)
 
 ## I'm a Student and Developer!
 
