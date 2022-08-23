@@ -1,19 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Diwash+Bhandari!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Diwash+Bhandari!;&center=true&size=45">
   </a>
 </h1>
 
 <div align="center">
 <h1 align="center">Hi!<img width="35" src="https://github.com/Diwas2055/Diwas2055/blob/main/resources/img/waving.gif">, I'm Diwash Bhandari</h1>
 </div>
-
-
-<div align="center">
-<h2> Watch my contribution graph eaten by the snake 🐍</h2>  
-<img  src="https://github.com/Diwas2055/Diwas2055/blob/output/github-contribution-grid-snake.svg">  
-</div>
-<br/>
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
@@ -77,7 +70,11 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwas2055&langs_count=8&theme=react-dark&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Diwas2055&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react-dark) |
 
 <br/>
-
+<div align="center">
+<h3> Watch my contribution graph eaten by the snake 🐍</h3>  
+<img  src="https://github.com/Diwas2055/Diwas2055/blob/output/github-contribution-grid-snake.svg">  
+</div>
+<br/>
 <h4 align="center">
   <a href="https://github.com/Diwas2055?tab=repositories" title="Show Repositories">Show More 🔍</a>
 </h4>
