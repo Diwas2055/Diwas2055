@@ -3,11 +3,7 @@
 <h4 align="center">a student currently living in Kathmandu, Nepal. I'm learning programming through small projects on the side.</h4>
 </div>
 
-<div align="center">
-  <a href="https://Diwas2055.github.io/Diwas2055/">
-  <img  src="https://github.com/Diwas2055/Diwas2055/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![snake gif](https://github.com/Diwas2055/Diwas2055/blob/output/github-contribution-grid-snake.gif)
 
 <details>
   <summary>☎️ contact me</summary>
