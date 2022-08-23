@@ -5,8 +5,7 @@
 
 ![snake gif](https://github.com/Diwas2055/Diwas2055/blob/output/github-contribution-grid-snake.svg)
 
-<details>
-  <summary>☎️ Contact Me</summary>
+
 <div>
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
@@ -24,10 +23,9 @@
     </p>
   </samp>
 </div>
-</details>
 
-<details>
-  <summary>🧮 About</summary>
+
+
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
@@ -47,12 +45,9 @@
      alt="repos" /></a>
  </p>
 </div>
-</details>
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
   <div>
-    <h2 align="center"> 📊 Github stats </h2>
+    <h2 align="center"> 📊 GitHub Profile Stats </h2>
       <br/>
         <p align="center">
           <a href="https://github.com/Diwas2055/">
@@ -66,11 +61,9 @@
        </p>
      <br>
   </div>    
-</details>
 
-<details>
   <summary>📈 Latest Activity Graph</summary>
   <br/>
   <h2 align="center"> Latest Contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Diwas2055&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
+
