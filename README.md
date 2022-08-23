@@ -1,8 +1,10 @@
 ### Hi there, I'm Diwash Bhandari [Shree0105][website] 👋
 
-[![Website](http://meroweb.netlify.app/)](http://meroweb.netlify.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/abdulrehman__pk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabdulrehman__pk&screen_name=abdulrehman__pk)
-[![Linkdin](https://img.shields.io/badge/Hire%20On%20Fiverr-5(46%20reviews)-brightgreen?color=1dbf73&logo=fiverr&style=for-the-badge)](https://track.fiverr.com/visit/?bta=94214&nci=7473&landingPage=https%3A%2F%2Ftrack.fiverr.com%2Fvisit%2F%3Fbta%3D94214%26brand%3Dfiverrhybrid%26landingPage%3Dhttps%253A%252F%252Fwww.fiverr.com%252Fabdulrehman25)
+[![Website](https://www.meroweb.tk/)](https://www.meroweb.tk/)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/diwash-bhandari-3814b2157/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)]
+(https://dribbble.com/Shree0105)
 
 ## I'm a Student and Developer!
 
@@ -41,7 +43,7 @@
 <br />
 
 
-<img align="left" alt="abdulrehman25's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abdulrehman25&show_icons=true&hide_border=true" />
+<img align="left" alt="abdulrehman25's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Diwas2055&show_icons=true&hide_border=true" />
 
 
 
