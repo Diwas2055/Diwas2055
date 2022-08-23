@@ -6,13 +6,13 @@
 
 <div align="center">
 <h1 align="center">Hi!<img width="35" src="https://github.com/Diwas2055/Diwas2055/blob/main/resources/img/waving.gif">, I'm Diwash Bhandari</h1>
-<h4 align="center">a student currently living in Kathmandu, Nepal. I'm learning programming through small projects on the side.</h4>
 </div>
 
-### Watch my contribution graph eaten by the snake 🐍
 
+<div align="center">
+<h2> Watch my contribution graph eaten by the snake 🐍</h2>
 ![snake gif](https://github.com/Diwas2055/Diwas2055/blob/output/github-contribution-grid-snake.svg)
-
+</div>
 <br/>
 
 ### 👨🏻‍💻 &nbsp;About Me 
