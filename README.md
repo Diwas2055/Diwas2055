@@ -10,8 +10,8 @@
 
 
 <div align="center">
-<h2> Watch my contribution graph eaten by the snake 🐍</h2>
-![snake gif](https://github.com/Diwas2055/Diwas2055/blob/output/github-contribution-grid-snake.svg)
+<h2> Watch my contribution graph eaten by the snake 🐍</h2>  
+<img  src="https://github.com/Diwas2055/Diwas2055/blob/output/github-contribution-grid-snake.svg">  
 </div>
 <br/>
 
