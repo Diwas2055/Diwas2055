@@ -4,10 +4,6 @@
   </a>
 </h1>
 
-<div align="center">
-<h1 align="center">Hi!<img width="35" src="https://github.com/Diwas2055/Diwas2055/blob/main/resources/img/waving.gif">, I'm Diwash Bhandari</h1>
-</div>
-
 ### 👨🏻‍💻 &nbsp;About Me 
 
 <img width="55%" align="right" alt="Github"
