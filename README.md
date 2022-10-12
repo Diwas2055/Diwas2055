@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as a Backend Developer 
 
-- 📚 I’m a student at the Tribhuvan University, Nepal.
+- 📚 I study at the Tribhuvan University, Nepal.
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles
 
