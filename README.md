@@ -6,8 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
-<img width="55%" align="right" alt="Github"
-   src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🔭 I’m currently working as a Backend Developer 
 
@@ -18,8 +17,6 @@
 - 💬 Talk to me about Python, Laravel, JavaScript, Freelancing Opportunites, Open Source
 
 <br/>
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
