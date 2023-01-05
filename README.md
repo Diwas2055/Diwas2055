@@ -51,10 +51,12 @@
 <a href="https://www.github.com/Diwas2055" target="blank"><img align="center"
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="shree0105"
       height="30" /></a>
-<a href="hhttp://meroweb.tk/" target="blank"><img align="center"
+<a href="https://meroweb.tk/" target="blank"><img align="center"
       src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="shree0105"
       height="30" /></a>
-
+<a href="https://gitlab.com/Diwas2055" target="blank"><img align="center"
+      src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="shree0105"
+      height="30" /></a>
 <br/>
 
 <!-- ![Diwash's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Diwas2055&theme=react-dark&hide_border=true&area=true) -->
