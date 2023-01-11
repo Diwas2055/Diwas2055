@@ -5,6 +5,9 @@
 </h1>
 
 ### 👨🏻‍💻 &nbsp;About Me 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Diwas2055&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+</p> <br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
