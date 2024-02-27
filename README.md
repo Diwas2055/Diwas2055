@@ -11,13 +11,13 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🔭 I’m currently working as a Backend Developer 
+This is the place where I open source stuff and break things :rofl:
 
-- 📚 I study at the Tribhuvan University, Nepal.
-
-- 👯 I’m looking to collaborate on Projects, Tech Articles
-
-- 💬 Talk to me about Python, Laravel, JavaScript, Freelancing Opportunites, Open Source
+- 🔭 &nbsp; I’m currently working on something cool :wink:
+- 🌱 &nbsp; I’m currently learning  Go
+- 💬 &nbsp; Ask me about anything related to Javascript/PHP/Python or React/Express/FastAPI
+- 👨‍💻 &nbsp; Read more about my projects at [meroweb](https://meroweb.netlify.app/#portfolio)
+- ⚡ &nbsp; Fun fact: I :heart: :dog:s 
 
 <br/>
 
