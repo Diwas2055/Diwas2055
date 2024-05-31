@@ -1,8 +1,5 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Diwash+Bhandari!;&center=true&size=25">
-  </a>
-</h1>
+[![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)](https://diwash-bhandari.com.np/)</br>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hello%F0%9F%91%8B%2C+I'm+Diwash%F0%9F%99%8B;Nice+to+Meet+you%F0%9F%98%8A" alt="Hello, I'm Diwash"></div>
 
 ### 👨🏻‍💻 &nbsp;About Me 
 <p align="center">
@@ -14,9 +11,9 @@
 This is the place where I open source stuff and break things :rofl:
 
 - 🔭 &nbsp; I’m currently working on something cool :wink:
-- 🌱 &nbsp; I’m currently learning  Go
+- 🌱 &nbsp; I’m currently learning to  Go
 - 💬 &nbsp; Ask me about anything related to Javascript/PHP/Python or React/Express/FastAPI
-- 👨‍💻 &nbsp; Read more about my projects at [meroweb](https://meroweb.netlify.app/#portfolio)
+- 👨‍💻 &nbsp; Read more about my projects at [meroweb](https://diwash-bhandari.com.np/#portfolio)
 - ⚡ &nbsp; Fun fact: I :heart: :dog:s 
 
 <br/>
@@ -54,7 +51,7 @@ This is the place where I open source stuff and break things :rofl:
 <a href="https://www.github.com/Diwas2055" target="blank"><img align="center"
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="shree0105"
       height="30" /></a>
-<a href="https://meroweb.tk/" target="blank"><img align="center"
+<a href="https://diwash-bhandari.com.np/" target="blank"><img align="center"
       src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="shree0105"
       height="30" /></a>
 <a href="https://gitlab.com/Diwas2055" target="blank"><img align="center"
