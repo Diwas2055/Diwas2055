@@ -29,7 +29,7 @@ Backend engineer focused on scalable system architecture, AI/ML integration, and
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Diwas2055&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=1f6feb&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Diwas2055&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=1f6feb&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diwas2055&theme=dark&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=58a6ff" width="100%" alt="GitHub Streak" />
@@ -37,7 +37,7 @@ Backend engineer focused on scalable system architecture, AI/ML integration, and
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwas2055&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=1f6feb&langs_count=8" width="70%" alt="Top Languages" />
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Diwas2055&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=1f6feb&langs_count=8" width="70%" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -50,7 +50,7 @@ Backend engineer focused on scalable system architecture, AI/ML integration, and
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Diwas2055&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/Diwas2055/Diwas2055/main/.github/assets/trophy.svg" width="100%" alt="GitHub Trophies" />
 
 </div>
 
