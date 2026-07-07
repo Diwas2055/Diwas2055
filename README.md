@@ -104,8 +104,7 @@ No-code AI research assistant builder — deploy custom assistants in under 5 mi
 
 ### Latest Blog Posts
 
-<!-- BLOG-POSTS:START -->
-<!-- BLOG-POSTS:END -->
+<!-- BLOG-POSTS:START -->- [Building Reliable Background Workflows with Temporal and FastAPI: A Step-by-Step Guide](https://medium.com/@diwasb54/building-reliable-background-workflows-with-temporal-and-fastapi-a-step-by-step-guide-48e86121310e?source=rss-e0d9c46854c5------2) (Apr 1, 2026)- [Build AI Apps on the Edge: A Step-by-Step Guide to Cloudflare Workers AI with Python &amp; GLM-4.7-Flash](https://medium.com/@diwasb54/build-ai-apps-on-the-edge-a-step-by-step-guide-to-cloudflare-workers-ai-with-python-glm-4-7-flash-fd0dda3aa012?source=rss-e0d9c46854c5------2) (Mar 31, 2026)- [You Accidentally Pushed Your .env File to GitHub — Here&#39;s How to Actually Fix It &lpar;2026 Guide&rpar;](https://medium.com/@diwasb54/you-accidentally-pushed-your-env-file-to-github-heres-how-to-actually-fix-it-2026-guide-ad6befdca991?source=rss-e0d9c46854c5------2) (Mar 22, 2026)- [The 2026 Golden Path: Building and Publishing Python Packages with a Single Tool &lpar;uv&rpar;](https://medium.com/@diwasb54/the-2026-golden-path-building-and-publishing-python-packages-with-a-single-tool-uv-b19675e02670?source=rss-e0d9c46854c5------2) (Feb 9, 2026)- [Context Engineering: The Next Evolution Beyond Prompt Engineering](https://medium.com/@diwasb54/context-engineering-the-next-evolution-beyond-prompt-engineering-94f0ea3c0f75?source=rss-e0d9c46854c5------2) (Jan 12, 2026)<!-- BLOG-POSTS:END -->
 
 *— Automatically updated via GitHub Actions from Medium*
 
