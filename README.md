@@ -32,7 +32,7 @@ Backend engineer focused on scalable system architecture, AI/ML integration, and
       <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Diwas2055&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=1f6feb&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diwas2055&theme=dark&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=58a6ff" width="100%" alt="GitHub Streak" />
+      <img src="https://raw.githubusercontent.com/Diwas2055/Diwas2055/master/.github/assets/streak.svg" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
