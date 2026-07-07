@@ -27,8 +27,8 @@ jobs:
           # Comment tag markers in README.md
           comment_tag_name: "BLOG-POSTS"
           # Template for each post
-          template: "- [$title]($url) — $description"
-          # Date format (optional)
+          # Note: Medium RSS has no <description> tag, so $description is omitted
+          template: "- [$title]($url) ($date)"
           date_format: "mmm d, yyyy"
           # Don't show the feed name for single feed
           show_feed_name: false
