@@ -50,7 +50,7 @@ Backend engineer focused on scalable system architecture, AI/ML integration, and
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Diwas2055/Diwas2055/main/.github/assets/trophy.svg" width="100%" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/Diwas2055/Diwas2055/master/.github/assets/trophy.svg" width="100%" alt="GitHub Trophies" />
 
 </div>
 
