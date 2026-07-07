@@ -1,75 +1,125 @@
-[![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)](https://diwash-bhandari.com.np/)</br>
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hello%F0%9F%91%8B%2C+I'm+Diwash%F0%9F%99%8B;Nice+to+Meet+you%F0%9F%98%8A" alt="Hello, I'm Diwash"></div>
-
-### 👨🏻‍💻 &nbsp;About Me 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Diwas2055&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> <br>
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-This is the place where I open source stuff and break things :rofl:
-
-- 🔭 &nbsp; I’m currently working on something cool :wink:
-- 🌱 &nbsp; I’m currently learning to  Go
-- 💬 &nbsp; Ask me about anything related to Javascript/PHP/Python or React/Express/FastAPI
-- 👨‍💻 &nbsp; Read more about my projects at [meroweb](https://diwash-bhandari.com.np/#portfolio)
-- ⚡ &nbsp; Fun fact: I :heart: :dog:s 
-
-<br/>
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=f05340)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=f05340)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![FastApi](https://img.shields.io/badge/-FastApi-05122A?style=flat&logo=FastApi)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Linux](https://img.shields.io/badge/linux-0078D6?style=flat&logo=linux&logoColor=black)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)&nbsp;
-
-<br/>
-
-### 🤝🏻 &nbsp;Connect with Me 
-<a href="https://www.linkedin.com/in/diwash-bhandari-3814b2157/" target="blank"><img align="center"
-      src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="shree0105" height="30" /></a>
-<a href="https://dribbble.com/Shree0105" target="blank"><img align="center"
-      src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="shree0105"
-      height="30" /></a>
-<a href="mailto:diwasb54@gmail.com" target="blank"><img align="center"
-      src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="shree0105"
-      height="30" /></a>
-<a href="https://www.github.com/Diwas2055" target="blank"><img align="center"
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="shree0105"
-      height="30" /></a>
-<a href="https://diwash-bhandari.com.np/" target="blank"><img align="center"
-      src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="shree0105"
-      height="30" /></a>
-<a href="https://gitlab.com/Diwas2055" target="blank"><img align="center"
-      src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="shree0105"
-      height="30" /></a>
-<br/>
-
-<!-- ![Diwash's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Diwas2055&theme=react-dark&hide_border=true&area=true) -->
-| ![Diwash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diwas2055&show_icons=true&theme=react-dark)             | [![Diwash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Diwas2055&theme=dracula)](https://git.io/streak-stats)                                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwas2055&langs_count=8&theme=react-dark&layout=compact) | ![Diwash's Github Stars](https://github-readme-stats.vercel.app/api?username=Diwas2055&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react-dark) |
-
-<br/>
 <div align="center">
-<h3> Watch my contribution graph eaten by the snake 🐍</h3>  
-<img  src="https://github.com/Diwas2055/Diwas2055/blob/output/github-contribution-grid-snake.svg">  
+
+# Diwash Bhandari
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer;Python+%7C+FastAPI+%7C+Distributed+Systems;AI+Applications+%7C+RAG+%7C+SaaS+Architecture" alt="Typing SVG" />
+
+Building production-grade backends, RAG platforms, and multi-tenant SaaS systems. 5+ years shipping APIs that handle 100K+ requests/day with sub-200ms response times.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwash-bhandari-3814b2157/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-diwash--bhandari.com.np-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://diwash-bhandari.com.np/)
+[![Email](https://img.shields.io/badge/Email-dev@diwash--bhandari.com.np-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@diwash-bhandari.com.np)
+
+<img src="https://komarev.com/ghpvc/?username=Diwas2055&color=10B981&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
-<br/>
-<h4 align="center">
-  <a href="https://github.com/Diwas2055?tab=repositories" title="Show Repositories">Show More 🔍</a>
-</h4>
+
+---
+
+### About
+
+Backend engineer focused on scalable system architecture, AI/ML integration, and production DevOps. I design high-performance APIs, orchestrate RAG pipelines, and build platforms that handle real-world traffic — from 10K to 100K+ concurrent users with 99.9% uptime.
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Diwas2055&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=1f6feb&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diwas2055&theme=dark&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=58a6ff" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwas2055&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=1f6feb&langs_count=8" width="70%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Diwas2055&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### Currently Building
+
+- **RAG Orchestration Platform** — 7-step semantic pipeline (chunking → embedding → search → generation → streaming), 92% accuracy across 10K+ enterprise documents with real-time SSE monitoring
+- **AI Fitness Coach** — Multi-platform (Telegram/Discord) conversational AI with 14+ LLM providers, automatic failover, and zero-hallucination guardrails
+- **Enterprise SaaS Tooling** — Multi-tenant architecture, tenant isolation, and performance optimization at scale
+
+---
+
+### Core Stack
+
+```
+Backend:    Python · FastAPI · Django · Starlette · SQLAlchemy · asyncpg
+AI/ML:      LangChain · LiteLLM · OpenAI · Anthropic · ChromaDB · Qdrant
+Databases:  PostgreSQL · Redis · MongoDB · Vector Stores · Elasticsearch
+Infra:      Docker · Kubernetes · AWS · GCP · GitHub Actions · Terraform
+Frontend:   React · Next.js · TypeScript · Tailwind CSS · WebSockets
+Languages:  Python · Go · TypeScript · JavaScript · PHP
+Tools:      Pytest · Ruff · Pyright · UV · Temporal · GraphQL
+```
+
+---
+
+### Featured Projects
+
+**RAG Orchestration Platform**
+`FastAPI · LangChain · ChromaDB · WebSockets`
+7-step semantic pipeline, 92% accuracy, sub-2s response, 7+ vector DBs supported
+[→ Code](https://github.com/Diwas2055/RAG-OS-Intelligence-Console) · [→ Demo](https://rag-demo.fastapicloud.dev/)
+
+**Gym Fitness Coach Bot**
+`FastAPI · LiteLLM · Discord.py · aiogram`
+14+ LLM providers with automatic failover, zero-hallucination guardrails, 9 database tables
+[→ Code](https://github.com/Diwas2055/Gym-Fitness-Coach-Bot)
+
+**IntelliDocs AI**
+`FastAPI · LangChain · ChromaDB · OpenAI`
+92% accuracy, 10K+ docs processed, 60% latency reduction via WebSocket streaming
+[→ Code](https://github.com/Diwas2055/intellidocs) · [→ Demo](https://intellidocs-ai-delta.vercel.app/)
+
+**ResearchGen SaaS**
+`FastAPI · Multi-Model AI · Docker`
+No-code AI research assistant builder — deploy custom assistants in under 5 minutes
+[→ Code](https://github.com/Diwas2055/researchgen) · [→ Demo](https://research-assistant-application-generator.onrender.com/)
+
+---
+
+### Latest Blog Posts
+
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
+
+*— Automatically updated via GitHub Actions from Medium*
+
+---
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwash-bhandari-3814b2157/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-diwash--bhandari.com.np-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://diwash-bhandari.com.np/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@diwasb54)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@diwash-bhandari.com.np)
+
+**Based in:** Kathmandu, Nepal · **Remote:** Fully available
+
+</div>

@@ -1,0 +1,34 @@
+name: Latest Blog Posts
+on:
+  schedule:
+    # Runs every 6 hours — adjust cadence based on your posting frequency
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    # Allows manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts from Medium
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pull in Medium blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Medium RSS feed
+          feed_list: "https://medium.com/feed/@diwasb54"
+          # Maximum posts to display
+          max_post_count: 5
+          # Comment tag markers in README.md
+          comment_tag_name: "BLOG-POSTS"
+          # Template for each post
+          template: "- [$title]($url) — $description"
+          # Date format (optional)
+          date_format: "mmm d, yyyy"
+          # Don't show the feed name for single feed
+          show_feed_name: false
